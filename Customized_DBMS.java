@@ -1,6 +1,6 @@
 import java.lang.*;
 import java.util.*;
- 
+
 class Student
 {
     public int RID;
